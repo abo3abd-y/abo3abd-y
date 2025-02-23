@@ -11,6 +11,8 @@ My name is Abdullah Yassine. Currently a student at CU Boulder stuyding Computer
 
 📫 How to reach me: email (mickeyamy4@gmail.com), phone number (+1 720-546-5338).
 
+You can find more about me at [link](abdullahyassine.me)
+
 <!--
 **abo3abd-y/abo3abd-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
