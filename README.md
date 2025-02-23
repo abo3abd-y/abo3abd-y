@@ -1,10 +1,15 @@
 ## Hi there 👋
 
 My name is Abdullah Yassine. Currently a student at CU Boulder stuyding Computer Science and Applied Mathematics and a minor in Quantum Engineering.
+
+
 🌱 I’m currently learning Computer Science, Applied Mathematics, and Quantum Engineering.
-📚 I have experience in the following fields: Web Development, Data Science/Machine Learning, Cybsersecurity, Linux System Administration
+
+📚 I have experience in the following fields: Web Development, Data Science/Machine Learning, Cybsersecurity, Linux System Administration.
+
 🔭 I’m currently working on Web Design and getting deaper into Deep Learning.
-📫 How to reach me: email (mickeyamy4@gmail.com), phone number (+1 720-546-5338)
+
+📫 How to reach me: email (mickeyamy4@gmail.com), phone number (+1 720-546-5338).
 
 <!--
 **abo3abd-y/abo3abd-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
