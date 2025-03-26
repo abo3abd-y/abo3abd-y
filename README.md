@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-My name is Abdullah Yassine. Currently a student at CU Boulder stuyding Computer Science and Applied Mathematics and a minor in Quantum Engineering.
-
+My name is Abdullah Yassine. Currently a student at CU Boulder stuyding Computer Science and Applied Mathematics.
 
 🌱 I’m currently learning Computer Science and Applied Mathematics.
 
