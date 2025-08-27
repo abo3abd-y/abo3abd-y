@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Abdullah Yassine. Currently a student at CU Boulder stuyding Computer Science and Applied Mathematics.
+My name is Abdullah Yassine. Currently a student at CU Boulder stuyding Computer Science.
 
-🌱 I’m currently learning Computer Science and Applied Mathematics.
+🌱 I’m currently learning Computer Science.
 
 📚 I have experience in the following fields: Web Development, Data Science/Machine Learning, Cybsersecurity, Linux System Administration.
 
