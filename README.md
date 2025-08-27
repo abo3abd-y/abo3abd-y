@@ -8,7 +8,7 @@ My name is Abdullah Yassine. Currently a student at CU Boulder stuyding Computer
 
 🔭 I’m currently working on Web Design and getting deaper into Deep Learning.
 
-📫 How to reach me: email (mickeyamy4@gmail.com), phone number (+1 720-546-5338).
+📫 How to reach me: email (mickeyamy4@gmail.com).
 
 You can find more about me at [my website](https://abdullahyassine.me).
 
